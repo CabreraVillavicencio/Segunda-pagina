@@ -1,0 +1,18 @@
+.fond1 {
+    background: url("../image/header_bg.jpg") no-repeat fixed; /*imagen de fondo*/
+    background-size: contain; /* Adaptar imagen de fondo */
+    height: 700px;
+    position: relative;
+}
+
+.logo1 {
+    padding-top: 2%;
+    padding-left: 12%;
+  
+}
+
+.lista {
+    color: #FFF;
+    padding-left: 80%;
+    height: 100px;
+}
